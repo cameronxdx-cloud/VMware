@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vSphere/Adding a Datastore.md",
+                "file": "vCenter/Deployment of vCenter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adding a Datastore"
+              "title": "Deployment of vCenter"
             }
           }
         ]
@@ -170,20 +170,22 @@
   },
   "active": "d258e8a016d62702",
   "lastOpenFiles": [
-    "vSphere/attachments/Pasted image 20250119205219.png",
-    "Images/Pasted image 20241231154324.png",
-    "vSphere/Adding a Datastore.md",
-    "vSphere/attachments/Pasted image 20250119205205.png",
-    "Images/Pasted image 20241231153634.png",
-    "Images/Pasted image 20241231153529.png",
-    "Images/Pasted image 20241231153521.png",
-    "vSphere/attachments/Pasted image 20250119205140.png",
+    "vCenter/attachments/Pasted image 20250119210545.png",
+    "Images/Pasted image 20241231144545.png",
+    "Images/Pasted image 20241231113702.png",
+    "Images/Pasted image 20241231104809.png",
+    "Images/Pasted image 20241231104750.png",
+    "Images/Pasted image 20241231153409.png",
     "Images/Pasted image 20241231153432.png",
-    "vSphere/attachments/Pasted image 20250119205126.png",
     "Images/Pasted image 20241231153421.png",
-    "vSphere/attachments/Pasted image 20250119205104.png",
-    "vSphere/attachments",
+    "Images/Pasted image 20241231152209.png",
     "vCenter/Deployment of vCenter.md",
+    "vCenter/attachments/Pasted image 20250119210512.png",
+    "vCenter/attachments/Pasted image 20250119210451.png",
+    "vCenter/attachments/open.url",
+    "vCenter/attachments",
+    "vSphere/Adding a Datastore.md",
+    "vSphere/attachments",
     "vSphere/Adding Datacenter and Host.md",
     "vSphere",
     "vCenter",
