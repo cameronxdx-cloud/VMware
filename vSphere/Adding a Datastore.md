@@ -1,17 +1,16 @@
-![](../Images/Pasted%20image%2020241231153306.png)
-![](../Images/Pasted%20image%2020241231153319.png)
+![](attachments/Pasted%20image%2020250119204831.png)
+![](attachments/Pasted%20image%2020250119204852.png)
 ![](../Images/Pasted%20image%2020241231153521.png)
-![](../Images/Pasted%20image%2020241231153529.png)
-![](../Images/Pasted%20image%2020241231153409.png)
-![](../Images/Pasted%20image%2020241231153421.png)
-![](../Images/Pasted%20image%2020241231153432.png)
-![](../Images/Pasted%20image%2020241231153634.png)
+![](attachments/Pasted%20image%2020250119205104.png)
+![](attachments/Pasted%20image%2020250119205126.png)
+![](attachments/Pasted%20image%2020250119205140.png)
+![](attachments/Pasted%20image%2020250119205205.png)
 
 
 ## QNAP Setup
 1. Create a shared folder 
 2. Give the user NFS host access R/W permissions
-![](../Images/Pasted%20image%2020241231154324.png)
+![](attachments/Pasted%20image%2020250119205219.png)
 
 
 
