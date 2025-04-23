@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "VMware NSX-T"
             }
+          },
+          {
+            "id": "abe9abf19399367c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSX-T/NSX-T Federation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NSX-T Federation"
+            }
+          },
+          {
+            "id": "1d26bc3013377250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSX-T/Routing and Switching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Routing and Switching"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,12 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "990c265d2602eb72",
+  "active": "1d26bc3013377250",
   "lastOpenFiles": [
+    "NSX-T/NSX-T Federation.md",
+    "NSX-T/Routing and Switching.md",
+    "NSX-T/VMware NSX-T.md",
     "NSX-T/attachments/Pasted image 20250423110319.png",
     "NSX-T/attachments",
     "vSphere/Adding a Datastore.md",
-    "NSX-T/VMware NSX-T.md",
     "NSX-T",
     "vSphere/Adding Datacenter and Host.md",
     "vCenter/Deployment of vCenter.md",
@@ -202,7 +232,6 @@
     "Images/Pasted image 20241231153432.png",
     "Images/Pasted image 20241231153421.png",
     "Images/Pasted image 20241231152209.png",
-    "vCenter/attachments/Pasted image 20250119210512.png",
     "vCenter/attachments/open.url",
     "vCenter/attachments",
     "vSphere/attachments",
