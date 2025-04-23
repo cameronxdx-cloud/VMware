@@ -13,3 +13,15 @@ Software-defined networking that extends across data centers, clouds, and applic
 
 ## Key Concepts
 ![](attachments/Pasted%20image%2020250423110319.png)
+- Router Port
+- Switch Port
+- Control Plane
+- Data Plane 
+- Segment 
+- Virtual Tunnel Endpoint 
+
+## NSX-T Manager
+Implemetns management and control plane
+	- Web GUI 
+	- RESTful API 
+Management agents 
