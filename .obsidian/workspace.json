@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSX-T/VMware NSX T Data Center Installation and Configuration/Cluster Deployment and Verification (Demo Summary).md",
+                "file": "NSX-T/VMware NSX T Data Center Installation and Configuration/Management Cluster Deployment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cluster Deployment and Verification (Demo Summary)"
+              "title": "Management Cluster Deployment"
             }
           }
         ],
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0333f4f785bb8b0b",
+  "active": "fb2b43564027e017",
   "lastOpenFiles": [
     "NSX-T/VMware NSX T Data Center Installation and Configuration/Single Site vs Multi Site.md",
-    "NSX-T/VMware NSX T Data Center Installation and Configuration/Cluster Deployment and Verification (Demo Summary).md",
+    "NSX-T/VMware NSX T Data Center Installation and Configuration/Management Cluster Deployment.md",
     "NSX-T/VMware NSX T Data Center Installation and Configuration/NSX-T Management Cluster Installation.md",
     "NSX-T/VMware NSX T Data Center Installation and Configuration/Architecture and Components.md",
     "NSX-T/VMware NSX T Data Center Installation and Configuration/Introduction to VMware NSX-T Data Center.md",
