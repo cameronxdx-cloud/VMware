@@ -69,10 +69,10 @@
 
 ## Summary
 
-| Scenario          | Recommendation                                     |
-|-------------------|----------------------------------------------------|
-| Single-Site       | Managers in management cluster + DRS anti-affinity |
-| Multi-Site (2)    | 2 Managers in primary, 1 in secondary              |
-| Multi-Site (3+)   | Distribute Managers evenly with <10 ms latency     |
-| VLAN Available    | Use VIP with IPs from same subnet                  |
-| No VLAN Stretch   | Use external load balancer                         |
+| Scenario        | Recommendation                                     |
+| --------------- | -------------------------------------------------- |
+| Single-Site     | Managers in management cluster + DRS anti-affinity |
+| Multi-Site (2)  | 2 Managers in primary, 1 in secondary              |
+| Multi-Site (3+) | Distribute Managers evenly with <10 ms latency     |
+| VLAN Available  | Use VIP with IPs from same subnet                  |
+| No VLAN Stretch | Use external load balancer                         |
